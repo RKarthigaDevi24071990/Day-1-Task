@@ -1,0 +1,20 @@
+Write a blog on Difference between HTTP1.1 vs HTTP2.
+
+HTTP1.1:- 
+* This is the first usable version of HTTP and was created in 1997.
+* HTTP1.1 loads resources one after the other.
+* The right images uses HTTP1.1 to load the 100 images.
+* It works on the textual format.
+* It compresses data by itself.
+* It uses text based commands to complete HTTP requests.
+
+
+HTTP2:- 
+* This was the new version of HTTP2 and was created in 2015.
+* HTTP2 uses single connection to send multiple streams.
+* The left images uses HTTP2 to load 100 of images.
+* It works on the binary Protocol.
+* It uses Hpack for DATA compression.
+* It uses binary commands to complete HTTP requests.
+
+-----------------------------------------------------------------------------------------------------.

@@ -1,0 +1,29 @@
+Write a blog about objects and its internal representation in Javascript.
+
+OBJECTS:
+=> Objects is the combination of Primitive Data types as well as reference data types.
+=> Objects can be created using Object Constructor or Object Initializer.
+=> Objects are variables too but it contains only values.
+=> Objects in JavaScript is defined as the unordered collection of data of primitive or reference types of("Key:value")pairs.
+=> Java Script objects is a non primitive data types that allows you to store multiple collection of data.
+
+INTERNAL REPRESENTATION OF JAVA SSRIPT:
+=> The syntax for adding property to an object:
+ObjectName.Objectproperty = property value;
+
+=> The syntax for deleting property to an object:
+delete ObjectName.ObjectProperty;
+
+=> The syntax to access a property from an Object:
+ObjectName.Property
+or ObjectName[Expressions];
+
+=> Object Methods:
+function(){return ignition.on};
+
+=> Using new Keyword:
+obj = New Object();
+obj.key1 = value1;
+obj.key2 = value2;
+
+---------------------------------------------------------------------------------------------------------.
