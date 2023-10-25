@@ -1,2 +1,2 @@
 # Day-1-Task
-This is the content for roadmap Day1.
+This task contains difference between HTTP1.1 and HTTP2,Objects and Internal representation of JavaScript.
