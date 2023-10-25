@@ -16,5 +16,3 @@ HTTP2:-
 * It works on the binary Protocol.
 * It uses Hpack for DATA compression.
 * It uses binary commands to complete HTTP requests.
-
------------------------------------------------------------------------------------------------------.
