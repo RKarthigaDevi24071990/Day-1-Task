@@ -1,0 +1,1 @@
+This Day 1 task contains the difference between HTTP1.1 and HTTP2,objects and internal representation of JavaScript.
